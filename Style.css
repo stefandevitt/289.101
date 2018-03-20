@@ -1,112 +1,25 @@
-body {
-background-color: #441E13;
-
-color: white;
+.violettext{
+    color:violet;
+}
+.box1{
+    width:200px;
+    height:200px;
+    background-color:#FF0000;
+    float:left;
     
 }
 
-div {
-outline: 1px solid yellow;
-overflow: hidden;
+.box2{
+  width:200px;
+    height:200px;
+    background-color:#0000FF;
+    float:left;
 }
 
-.logo{
-width: 205px;
-float: left;
-color: white;
-font-size: 2.5rem;
-font-weight: bold;    
-}
-
-.slogan{
-width: 380px;
-float: left;
-color: #a37b71;
-font-family: sans-serif;
-font-size: 0.9rem;
-margin-top: 18px;
-}
-
-.logoContainer{
-max-width: 920px;
-margin-left: auto;
-margin-right: auto;
-margin-top: 30px
-overflow: hidden; /* make the div grow to accomodate float child elements */
-}
-
-.nav {
-background-color: rgba(0,0,0,0.25);
-height: 62px;
-margin-left: auto;
-margin-right: auto;
-margin-top: 20px;
-max-width: 920px;
-}
-
-.nav ol {
-padding: 18px 10px;
+.container{
+    width:400px;
     
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
 }
-
-.nav li {
-border-right: 1px solid #D4B364;
-display: block;
-float: left;
-font-family: sans-serif;
-padding: 6px 20px;
-}
-
-.nav li: last-child{
-border-right: none;
-}
-
-.green {
-background-color: #87a984;
-width: 920px;
-height: 200px
-float: auto;
-margin: auto;
-}
-.yellow {
-background-color: #dbd8c5;
-width: 917px;
-height: 900px;
-float: auto;
-margin: auto;
-    }
-
-.blue {
-background-color: #95AFAD;
-width: 200px;
-height: 900px;
-float: auto;
-margin: left;
-}
-
-
-.nav2 li{
-border-bottom: 1px solid #ffffff;
-display: block;
-float: left;
-font-family: sans-serif;
-padding: 16px 20px;
-}
-
-.h1{
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
