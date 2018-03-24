@@ -1,0 +1,135 @@
+div {
+    outline: 5px solid black;
+}
+/*
+body{
+    background-color:red;
+}*/
+.container {
+    height: 2760px;
+    width: 920px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header {
+    background-color: blue;
+    height: 100px;
+    width: 100%px;
+}
+.yellowsquare1 {
+    background-color: yellow;
+    height: 60px;
+    width: 308px;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+}
+.yellowsquare2 {
+    background-color: yellow;
+    height: 60px;
+    width:  550px;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+}
+.greencontent1 {
+    background-color: lime;
+    height: 500px;
+    width: 100%;
+}
+.redcontent2 {
+    background-color: red;
+    height: 400px;
+    width: 100%;
+}
+.header2 {
+    background-color: yellow;
+    height: 120px;
+    width: 880px;
+    margin-left: 20px;
+}
+.yellowsquares {
+    background-color: yellow;
+    height: 240px;
+    width: 280px;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+}
+.bluepage2 {
+    background-color: blue;
+    height: 700px;
+    width: 100%;
+}
+.header3 {
+    background-color: yellow;
+    height: 140px;
+    width: 880px;
+    margin-left: 20px;
+}
+.yellowboxes2{
+    background-color: yellow;
+    height: 150px;
+    width: 202px;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+}
+.greenpage3 {
+    background-color: lime;
+    height: 550px;
+    width: 100%;
+}
+.header4 {
+    background-color: yellow;
+    height: 130px;
+    width: 880px;
+    margin-left: 20px;
+}
+.columns {
+    background-color: yellow;
+    height: 380px;
+    width: 280px;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+}
+.redpage4 {
+    background-color: red;
+    height: 500px;
+    width: 100%;
+}
+.header5 {
+    background-color: yellow;
+    height: 90px;
+    width: 880px;
+    margin-left: 20px
+}
+.largeyellow {
+    background-color: yellow;
+    height: 340px;
+    width: 600px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    float: left;
+}
+.tinyyellow {
+    background-color: yellow;
+    height: 200px;
+    width: 260px;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+}
+.footer {
+    background-color: blue;
+    height: 100px;
+    width: 100%;
+    float: left;
+}
+
+
+
+
+
