@@ -1,18 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 
 body {
-    background-color:darkkhaki;
+    background-color:#ffd57e;
     margin:0 0 0 0;
     
 }
 
 .header{
-background-color: #708543;
+background-color: #148a43;
 font-family: 'Indie Flower', cursive;
 font-size: 1rem;
 height: 200px;
 width: 950px;
-color: #ceb784;
+color: #ffd57e;
 border-top: solid black;
 border-bottom: solid black;
 margin-left: auto;
@@ -81,7 +81,8 @@ color: black;
 margin-top: 30px;
 margin-right:auto;
 margin-left: auto;
-font-size: 1.5rem;
+font-family: 'indie flower', cursive;
+font-size: 1.7rem;
 color: dodgerblue;
 }
 
@@ -89,7 +90,7 @@ color: dodgerblue;
 background-color: #708543;
 margin-left:auto;
 margin-right: auto;
-margin-top: 20px;
+margin-top: 50px;
 height: 80px;
 width: 950px;
 }
@@ -100,5 +101,5 @@ margin-left: auto;
 margin-right: auto;
 max-width: 950px;
 max-height: 700px;
-margin-top: 120px;
+margin-top: 140px;
 }
