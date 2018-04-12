@@ -1,3 +1,6 @@
+div{
+    outline: 1px solid black
+}
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 
 body {
@@ -24,7 +27,7 @@ margin-left: auto;
 margin-right: auto;
 }
 
-.logo{
+.title{
 float: left;
 margin-right: 0px;
 font-size: 2rem;
@@ -93,6 +96,7 @@ color: dodgerblue;
 background-color: #148a43;
 margin-left:auto;
 margin-right: auto;
+text-align: center;
 border: solid black;
 font-family: 'indie flower', cursive;
 margin-top: 100px;
@@ -103,15 +107,16 @@ color: dodgerblue;
 }
 
 .map img{
+Float: left;
 height: 300px;
 width: 300px;
-margin-left: 165px;
+margin-left: px;
+margin-top: 10px;
     
 }
 
 .about{
-float: left;
-align-content: center;
+
 padding: 20px 0;
 margin-left: auto;
 margin-right: auto;
@@ -119,3 +124,11 @@ max-width: 950px;
 max-height: 700px;
 margin-top: 10px;
 }
+
+.location{
+margin-left: 100px;
+width: 100px;
+padding: 20px;
+text-align: left;
+}
+
