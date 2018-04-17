@@ -88,6 +88,7 @@ margin-top: 10px;
 margin-left:auto;
 margin-right: auto;
 font-size: 1.5rem;
+text-shadow: -1px -1px 10px white;
 }
 
 .slideshow{
@@ -130,6 +131,7 @@ width: 785px;
 height: 390px;
 float:right;
 padding-left: 15px;
+text-shadow: -1px -1px 10px white;
 }
 
 .scooterphotos{
@@ -191,6 +193,7 @@ height: 500px;
 margin-left: auto;
 margin-right: auto;
 font-size: 1rem;
+text-shadow: -1px -1px 10px white;
 }
 
 .kokacruisevid1{
@@ -220,6 +223,7 @@ height: 540px;
 margin-left: auto;
 margin-right: auto;
 font-size: 1rem;
+text-shadow: -1px -1px 10px white;
 }
 
 .mensdance{
