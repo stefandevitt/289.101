@@ -21,12 +21,16 @@ h3{
 font-size: 20px;
 color: mediumblue;
 }
+a{
+color: mediumblue;
+}
 
 p{ 
     font-size: 1rem;
 }
+
 .header{
-background-color: #148a43;
+background-color: #37b54a;
 margin-top: 50px;
 height: 100px;
 width: 1100px;
@@ -44,9 +48,8 @@ float: left;
 .heading{
     height: 100px;
     width: 995px;
-    margin-left: 105px;
+    margin-left: 124px;
     font-family: sans-serif;
-    
 }
 
 .nav{
@@ -54,7 +57,7 @@ max-width: 950px;
 width: 560px;
 height: 45px;
 padding-left: 10px;
-padding-right: 10px;
+padding-right: 25px;
 margin-left: auto;
 margin-right: auto;
 font-family: 'Indie Flower', cursive;
@@ -65,6 +68,7 @@ color: azure;
 
 .nav a {
 color: mediumblue;
+font-size: 1.03rem;
 }
 
 .nav a:hover{
@@ -77,7 +81,7 @@ height: 80px;
 margin-right:auto;
 margin-left: auto;
 margin-top: 30px;
-background-color:#148a43
+background-color:#37b54a;
 }
 
 .textbox1{
@@ -92,7 +96,7 @@ text-shadow: -1px -1px 10px white;
 }
 
 .slideshow{
-width: 1100px;
+width: 1080px;
 height: 500px;
 margin-right:auto;
 margin-left: auto;
@@ -114,16 +118,14 @@ height: 80px;
 margin-right:auto;
 margin-left: auto;
 margin-top: 30px;
-background-color:#148a43
+background-color:#37b54a;
 }
 
 .raromap{
 width: 300px;
-height: 300px;
+height: 330px;
 margin-top: 10px;
 float: left;
-
-
 }
 
 .textbox2{
@@ -136,7 +138,7 @@ text-shadow: -1px -1px 10px white;
 
 .scooterphotos{
 width: 1100px;
-height: 250px;
+height: 350px;
 margin-top: 30px;
 float: right;    
 }
@@ -176,8 +178,8 @@ width: 1100px;
 height: 80px;
 margin-right:auto;
 margin-left: auto;
-margin-top: 30px;
-background-color:#148a43
+margin-top: 10px;
+background-color:#37b54a;
 }
 .attractions{
 width: 1100px;
@@ -194,6 +196,7 @@ margin-left: auto;
 margin-right: auto;
 font-size: 1rem;
 text-shadow: -1px -1px 10px white;
+padding-left: 5px;
 }
 
 .kokacruisevid1{
@@ -211,8 +214,8 @@ float: left;
 }
 
 .kokabandpic{
-height: 250px;
-width: 400px;
+height: 270px;
+width: 450px;
 margin-left: auto;
 margin-right: auto;
 }
@@ -224,20 +227,22 @@ margin-left: auto;
 margin-right: auto;
 font-size: 1rem;
 text-shadow: -1px -1px 10px white;
+padding-left: 5px;
 }
 
 .mensdance{
 height: 350px;
 width: 380px;
 float: left;
-margin-right:50px;
+margin-left: 0px;
+margin-right:30px;
 }
 
 .showtime{
 height:400px;
 width:270px;
 float: right;
-margin-right:10px;
+margin-right:40px;
 
 }
 
@@ -254,6 +259,8 @@ height: 500px;
 margin-left: auto;
 margin-right: auto;
 font-size: 1rem;
+text-shadow: -1px -1px 10px white;
+padding-left: 5px;
 }
 
 .buggyvid1{
@@ -281,7 +288,7 @@ height: 80px;
 margin-right:auto;
 margin-left: auto;
 margin-top: 30px;
-background-color:#148a43;
+background-color:#37b54a;
 border-bottom: black;
 }
 
@@ -299,8 +306,7 @@ height: 550px;
 float: left;
 margin-left: 10px;
 font-size: 1rem;
-background-color:
-}
+text-shadow: -1px -1px 10px white;}
 
 .mansbestfriend{
 width: 350px;
@@ -367,19 +373,39 @@ height: 80px;
 margin-right:auto;
 margin-left: auto;
 margin-top: 30px;
-background-color:#148a43;
+background-color:#37b54a;
 }
 
 .moreinfo{
 width: 1100px;
-height: 500px;
+height: 670px;
 margin-right:auto;
 margin-left: auto;
 margin-top: 30px;
 }
 
 .textbox7{
-width: 350px;
-height: 300px;
-float: right;
+width: 800px;
+height: 250px;
+float:right;
+text-shadow: -1px -1px 10px white;
+}
+
+.contact{
+height:250px;
+width=250px;
+margin-left: 0px;
+float:left;
+}
+
+.footer{
+height: 380px;
+width: 1200px;
+margin-left:auto;
+margin-right: auto;
+float: left;
+}
+.footer img {
+margin-left: 250px;
+margin-top: 10px;
 }
