@@ -1,0 +1,61 @@
+body{
+    
+}
+
+.blue{
+background-color:deepskyblue;
+height: 50px;
+}
+
+.green{
+background-color:lawngreen;
+height:150px;
+}
+
+.orange{
+background-color:orange;
+height: 150px;
+}
+
+.grey{
+background-color:lightgrey;
+height: 50px;
+}
+
+/*sm*/
+@media (min-width:576px){
+body{
+background-color: red;
+}   
+}
+
+
+/*md*/
+@media (min-width:768px){
+body{
+background-color: green;
+}
+.grey{
+height:100px;
+}
+}
+
+/*lg*/
+@media (min-width:922px){
+body{
+background-color: orange;
+}
+.grey{
+height:300px;
+}
+}
+       
+/*xl*/
+@media (min-width:1200px){
+body{
+background-color: purple;
+}
+.grey{
+height:500px;
+}
+}
