@@ -1,0 +1,29 @@
+.tigertitle{
+color: #FFB879;
+text-align: center;
+font-family: 'Quicksand' , sans-serif;
+font-size: 40px;
+}
+
+.slideshow{
+width:1080px;
+height:320px;
+margin-right:auto;
+margin-left: auto;
+background-color: #F6B67D;
+border-radius: 30px;
+}
+
+.tigertext{
+width:1080px;
+height:320px;
+margin-right:auto;
+margin-left: auto;
+margin-top: 10px;
+background-color: #F6B67D;
+border-radius: 30px;
+}
+
+.images{
+border-radius: 30px;
+}
